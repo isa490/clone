@@ -1,3 +1,7 @@
 body{
-    background-color: antiquewhite;
+    background-color: red;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;        
 }
